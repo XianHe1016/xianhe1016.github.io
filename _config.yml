@@ -1,11 +1,9 @@
 theme: jekyll-theme-minimal
 title: Xianhe's homepage
 description: Bookmark this to keep an eye on my project updates!!!
-# url: "https://yourusername.github.io"  # 你的 GitHub Pages 域名
+url: "https://xianhe1016.github.io"  # 取消注释并填写你的仓库地址
 
-# 自定义信息
-email: "contact&#64;51265900021@stu.ecnu.edu.cn"  # 防爬虫写法
-# 其他信息
+email: "contact&#64;51265900021@stu.ecnu.edu.cn"  # 保持防爬虫写法
 research_interests:
   - "Large Language Model Acceleration"
   - "Distributed Systems"
