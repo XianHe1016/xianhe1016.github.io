@@ -1,4 +1,25 @@
+# theme: jekyll-theme-minimal
+# title: Xianhe's homepage
+# email: 51265900021@stu.ecnu.edu.cn
+# description: Bookmark this to keep an eye on my project updates!
+
 theme: jekyll-theme-minimal
 title: Xianhe's homepage
-email: 51265900021@stu.ecnu.edu.cn
 description: Bookmark this to keep an eye on my project updates!
+# url: "https://yourusername.github.io"  # 你的 GitHub Pages 域名
+
+# 自定义信息
+email: "contact&#64;51265900021@stu.ecnu.edu.cn"  # 防爬虫写法
+social:
+  - name: GitHub
+    url: https://github.com/xianhe1016
+    icon: fab fa-github  # 可搭配 Font Awesome 图标（需引入 CSS）
+  # - name: Twitter
+  #   url: https://twitter.com/yourhandle
+  #   icon: fab fa-twitter
+
+# 其他信息
+research_interests:
+  - "Large Language Model Acceleration"
+  - "Distributed Systems"
+  - "AI Hardware Co-design"
